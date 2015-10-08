@@ -1,0 +1,31 @@
+{
+	"operation_mode":"sequential",
+	"mediums_data":[
+		{
+			"medium_name" : "ZaSe",
+			"base_url" : "http://www.zase.mk/",
+			"categories" : [
+				{"category_name" : "Vesti->Makedonija", "category_url" : "http://zase.mk/category/vesti-2/makedonija-2/"},
+				{"category_name" : "Vesti->Svet", "category_url" : "http://zase.mk/category/vesti-2/svet-vesti-2/"},
+				{"category_name" : "Vesti->Ekonomija", "category_url" : "http://zase.mk/category/vesti-2/ekonomija-vesti-2/"},
+				{"category_name" : "Vesti->Nastani", "category_url" : "http://zase.mk/category/od-teren/nastani/"},
+				{"category_name" : "Vesti->Tehnologija", "category_url" : "http://zase.mk/category/vesti-2/tehnologija-vesti-2/"},
+				{"category_name" : "Vesti->CrnaHronika", "category_url" : "http://zase.mk/category/vesti-2/crna-hronika/"}, 
+				{"category_name" : "Zabava->Muzika", "category_url" : "http://zase.mk/category/seisesto/zabava/muzika-zabava/"},
+				{"category_name" : "Zabava->Estrada", "category_url" : "http://zase.mk/category/seisesto/zabava/estrada/"},
+				{"category_name" : "Zabava->Smeshno", "category_url" : "http://zase.mk/category/seisesto/zabava/interesno-zabava/smeshno-interesno-zabava/"},
+				{"category_name" : "Zabava->Interesno", "category_url" : "http://zase.mk/category/seisesto/zabava/interesno-zabava/"},
+				{"category_name" : "Zabava->BidiGurman", "category_url" : "http://zase.mk/category/seisesto/zabava/bidi-gurman/"},
+				{"category_name" : "Zabava->Ljubov i Sex", "category_url" : "http://zase.mk/category/seisesto/zabava/ljubov-i-seks/"}, 
+				{"category_name" : "Zabava->Film i TV", "category_url" : "http://zase.mk/category/seisesto/zabava/film-zabava/"}, 
+				{"category_name" : "Sport->Fudbal", "category_url" : "http://zase.mk/category/seisesto/sport/fudbal-sport/"}, 
+				{"category_name" : "Sport->Kosharka", "category_url" : "http://zase.mk/category/seisesto/sport/kosarka/"}, 
+				{"category_name" : "Sport->Rakomet", "category_url" : "http://zase.mk/category/seisesto/sport/rakomet/"}, 
+				{"category_name" : "Sport->Ostanati", "category_url" : "http://zase.mk/category/seisesto/sport/ostanati/"}, 
+				{"category_name" : "Od Teren", "category_url" : "http://zase.mk/category/od-teren/"}, 
+				{"category_name" : "Zdravje", "category_url" : "http://zase.mk/category/zdravje-2/"}, 
+				{"category_name" : "Napisi", "category_url" : "http://zase.mk/category/napisi/"} 
+			]
+		}
+	]
+}
